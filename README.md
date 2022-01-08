@@ -4,7 +4,7 @@
 - 👀 I’m mainly interested in Python and javascript development, I also use other langages from time to time for the development of some small projects
 - 🌱 I’m currently learning more on machine learning (inside the infinite learning loop of the mathamatical part) and a little bit of everything 🤣 (As much as i can)
 - 👯 I’m looking to collaborate on cool projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 - 📫 Email me on lahzamiadam@gmail.com
 
