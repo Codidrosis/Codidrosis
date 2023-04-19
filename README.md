@@ -1,4 +1,4 @@
-### Hi there, I'm Adam - aka [Coderosis] 👋 
+### Hi there, I'm Adam - aka [Codidrosis] 👋 
 
 - 🔭 Currently working with AArts Lab developping Bernard Engine
 - 👀 I’m mainly interested in c++ and Python development, I also use other langages from time to time for the development of some small projects (typescript, matlab)
@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Connect with me:
-<img align="left" alt="Codidrosis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Codidrosis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
+<a href="mailto:lahzamiadam@gmail.com">
+<img align="left" alt="Get in touch!" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <br />
 
 ### Languages and Tools:
